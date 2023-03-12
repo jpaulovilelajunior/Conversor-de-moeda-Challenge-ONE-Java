@@ -7,7 +7,7 @@ import java.text.DecimalFormat;
 import org.json.JSONObject;
 
 public class alphaVantageAPI {
-    private static final String API_KEY = "9A9RYAPQQPR0V32N";    
+    private static final String API_KEY = "SENHA";    
     private static final DecimalFormat df = new DecimalFormat("0.00");  
     
     public static String ConectaAPI(String moedaDE, String moedaPARA) {
